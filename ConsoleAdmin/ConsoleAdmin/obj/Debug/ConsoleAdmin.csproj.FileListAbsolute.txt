@@ -1,0 +1,7 @@
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\ConsoleAdmin.exe.config
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\ConsoleAdmin.exe
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\bin\Debug\ConsoleAdmin.pdb
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\ConsoleAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\ConsoleAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\ConsoleAdmin.exe
+C:\Users\Enzo\source\repos\ConsoleAdmin\ConsoleAdmin\obj\Debug\ConsoleAdmin.pdb
