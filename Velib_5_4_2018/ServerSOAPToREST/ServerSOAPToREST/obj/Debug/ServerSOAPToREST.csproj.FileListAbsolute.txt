@@ -1,0 +1,9 @@
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\bin\Debug\ServerSOAPToREST.dll.config
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\bin\Debug\ServerSOAPToREST.dll
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\bin\Debug\ServerSOAPToREST.pdb
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\obj\Debug\ServerSOAPToREST.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\obj\Debug\ServerSOAPToREST.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\obj\Debug\ServerSOAPToREST.dll
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\obj\Debug\ServerSOAPToREST.pdb
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enzo\source\repos\ServerSOAPToREST\ServerSOAPToREST\bin\Debug\Newtonsoft.Json.xml
