@@ -1,7 +1,0 @@
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\bin\Debug\ConsoleSOAP.exe.config
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\bin\Debug\ConsoleSOAP.exe
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\bin\Debug\ConsoleSOAP.pdb
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\obj\Debug\ConsoleSOAP.csproj.CoreCompileInputs.cache
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\obj\Debug\ConsoleSOAP.exe
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\obj\Debug\ConsoleSOAP.pdb
-C:\Users\Enzo\source\repos\ConsoleSOAP\ConsoleSOAP\obj\Debug\ConsoleSOAP.csprojResolveAssemblyReference.cache
